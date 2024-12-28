@@ -1,0 +1,30 @@
+# This list is implemented above this filter list
+# https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+
+# Microsoft sites
+ecs.office.com
+fs.microsoft.com
+watson.events.data.microsoft.com
+
+## Account login
+login.live.com
+
+## Windows Settings
+settings-win.data.microsoft.com
+
+## Windows update
+definitionupdates.microsoft.com
+slscr.update.microsoft.com
+ctldl.windowsupdate.com
+*.dl.delivery.mp.microsoft.com
+
+## Windows Defender Smartscreen
+checkappexec.microsoft.com
+
+# Nvidia sites
+activation.gfe.nvidia.com
+services.gfe.nvidia.com
+
+Others
+ecn.dev.virtualearth.net
+dev.virtualearth.net
