@@ -5,6 +5,13 @@
 ecs.office.com
 fs.microsoft.com
 watson.events.data.microsoft.com
+data-ai.microsoft.com
+
+# Microsoft Customer Experience Center
+cxcs.microsoft.net
+
+# Windows resume activity or Cortana
+activity.windows.com
 
 ## Account login
 login.live.com
@@ -20,10 +27,10 @@ ctldl.windowsupdate.com
 ## Windows Defender Smartscreen
 checkappexec.microsoft.com
 
+## Bing Maps
+ecn.dev.virtualearth.net
+dev.virtualearth.net
+
 # Nvidia sites
 activation.gfe.nvidia.com
 services.gfe.nvidia.com
-
-# Others
-ecn.dev.virtualearth.net
-dev.virtualearth.net
